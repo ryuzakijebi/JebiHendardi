@@ -296,7 +296,7 @@ const AddStory = () => {
                           </tr>
                         </thead>
                         <tbody>
-                          {users.map((user) => (
+                          {[...users].reverse().map((user) => (
                             <tr key={user.id}>
                               <td className="border px-4 py-2">{user.title}</td>
                               <td className="border px-4 py-2">{formatDate(user.updatedAt)}</td>

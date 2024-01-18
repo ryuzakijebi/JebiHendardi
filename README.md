@@ -23,7 +23,7 @@ I am using Express.js and MySQL on the backend side, and React.js with TailwindC
   
 - `Filter Menu by Category and Status` : The application enhances user experience by incorporating a filter menu, accessible through a popup modal, allowing users to categorize and filter stories based on predefined categories and status attributes.
   
-- `Add Story` : The Add Story feature empowers users to seamlessly create new stories. It includes sections for capturing general information such as title, author, synopsis, category, story cover, tags/keywords, and status. Additionally, users can dynamically add and manage chapters within a story.
+- `Add Story` : The Add Story feature empowers users to seamlessly create new stories. It includes sections for capturing general information such as title, author, synopsis, category, story cover, tags/keywords, and status. 
   
 - `Edit Story` : The Edit Story feature facilitates the modification of existing stories. Users can effortlessly update information in all fields, ensuring a flexible and user-friendly editing experience.
   
@@ -48,4 +48,4 @@ I am using Express.js and MySQL on the backend side, and React.js with TailwindC
 * `src/Pages` : AddChapter.jsx, AddStory.jsx, Home.jsx
 
 ## <a name="apk-link"></a> Website URL :
-Attach the link of your deployed project or youtube link here
+Youtube : https://youtu.be/A_2CdojNQS8
