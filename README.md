@@ -1,11 +1,10 @@
 # BIGIO Fullstack Dev - Take Home Challenge
 
 ## <a name="introduction"></a> Introduction :
-```sh
 The web application is designed to manage and showcase a collection of stories. It encompasses various features to handle the creation, editing, viewing, and searching of stories, as well as their associated chapters.
 
 I am using Express.js and MySQL on the backend side, and React.js with TailwindCSS on the frontend side. This project is also equipped with the Quill Rich Text Editor.
-```
+
 
 ## Table of Contents
 
